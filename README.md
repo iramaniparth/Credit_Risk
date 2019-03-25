@@ -40,3 +40,4 @@ We created new variables and removed redundant ones with dimensionality reductio
 
 As XgBoost alone has trouble with extrapolation, we chose an ensemble of XgBoost and Logistic Regression, since it would also account for a lot of the multi-collinearity in the data.
 
+A little more data engineering will definitely go a long way, and will improve the overall accuracy. I'll upload the new files as soon as possible.
